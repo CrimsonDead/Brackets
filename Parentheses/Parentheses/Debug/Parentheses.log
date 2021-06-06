@@ -1,0 +1,23 @@
+﻿  Parentheses.cpp
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(43,20): warning C4018: <: несоответствие типов со знаком и без знака
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(45,22): warning C4018: <: несоответствие типов со знаком и без знака
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(62,27): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(73,20): warning C4018: <: несоответствие типов со знаком и без знака
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(82,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(92,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(102,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(112,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(126,19): warning C4305: =: усечение из "double" в "float"
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(164,20): warning C4018: <: несоответствие типов со знаком и без знака
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(173,20): warning C4305: return: усечение из "double" в "float"
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(183,20): warning C4305: return: усечение из "double" в "float"
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(193,20): warning C4305: return: усечение из "double" в "float"
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(203,29): warning C4056: переполнение при арифметических операциях с константой с плавающей точкой
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(218,19): warning C4305: =: усечение из "double" в "float"
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(234,20): warning C4018: <: несоответствие типов со знаком и без знака
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(246,20): warning C4018: <: несоответствие типов со знаком и без знака
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(265,20): warning C4018: <: несоответствие типов со знаком и без знака
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(398,20): warning C4018: <: несоответствие типов со знаком и без знака
+K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Parentheses\Brackets.h(390): warning C4172: возвращение адреса локальной или временной переменной : rez
+  Parentheses.vcxproj -> K:\учеба\2 курс\курсовая СИ\CourseProject\Parentheses\Debug\Parentheses.exe
